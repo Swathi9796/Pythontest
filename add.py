@@ -4,3 +4,4 @@ def add():
   b = 25
   c = a + b
   print(c)
+add()
