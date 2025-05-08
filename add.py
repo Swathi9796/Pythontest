@@ -4,4 +4,6 @@ def add():
   b = 25
   c = a + b
   print(c)
+  print("the added numbers are printed")
 add()
+
